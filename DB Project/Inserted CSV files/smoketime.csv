@@ -1,0 +1,11 @@
+smoketime_id,smoketime_desc
+1,never
+2,smokes
+3,"during current pregnancy"
+4,"within a year"
+5,"1-2 years ago"
+6,"2-3 years ago"
+7,"3-4 years ago"
+8,"5-9 years ago"
+9,10+
+0,"no info or quit"

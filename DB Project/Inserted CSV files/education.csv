@@ -1,0 +1,10 @@
+education_id,education_desc
+1,"less then 8th"
+2,"not graduated"
+3,"hs graduate"
+4,hs+trade
+5,hs+college
+6,college
+7,trade
+8,"hs unclear"
+0,"no info"
